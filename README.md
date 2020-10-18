@@ -33,7 +33,7 @@ With this approach, the model is able to detect 100% of all fraudulent transacti
 
 In addition, the number of false positive remains acceptable. This means a lot less verification work (on legitimate transactions) for the fraud departement compare dto some other approaches which failed on this aspect. Key results are shown below:
 
-Confusion matrix achived using SMOTE up-sampling and a simple dense neural network:
+Confusion matrix achieved using SMOTE over-sampling and a simple dense neural network:
 
 ![](confusion_matrix.png)
 
